@@ -5,7 +5,7 @@
 #include <PubSubClient.h>
 
 
-#define HOST "modbusgw-%s"
+#define HOST "nilan-gateway-%s"
 #define MAXREGSIZE 26
 #define SENDINTERVAL 180000
 #define VENTSET 1003
